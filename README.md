@@ -1,5 +1,5 @@
 <!-- GIF HEADER -->
-<img src="https://github.com/ChrisRyanKelly/ChrisRyanKelly/blob/master/day-by-day.gif" width="1000" height="250">
+<img src="https://github.com/ChrisRyanKelly/ChrisRyanKelly/blob/master/day-by-day.gif" width="1280" height="248">
 
 
 ### 🏄‍♂️ About Me
