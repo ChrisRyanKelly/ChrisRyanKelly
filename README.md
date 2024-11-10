@@ -1,5 +1,6 @@
 <!-- GIF HEADER -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
+<img src="https://github.com/ChrisRyanKelly/ChrisRyanKelly/blob/master/day-by-day.gif" width="1000" height="250">
+
 
 ### 🏄‍♂️ About Me
 
