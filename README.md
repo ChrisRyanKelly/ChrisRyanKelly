@@ -7,7 +7,7 @@
 
 **`Offensive Security (Hacker/PenTester/RedTeamer)`**
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 500k subscribers.
+I'm a cybersecurity enthusiast with a focus on offensive security. I enjoy testing and pushing the limits of systems, networks, and applications to better understand how they work and how to make them more resilient against evolving threats. Constantly exploring new attack vectors, tools, and techniques as I aim to expand and refine my methodologies. As I learn, I document my insights through my GitHub repositories and YouTube channel.  
 
  <a href="https://www.linkedin.com/in/kiran-a-n/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -77,7 +77,7 @@ I'm an indie full-stack developer and content creator building my version of the
 [![I Spent 40 Hours Coding This!](https://ytcards.demolab.com/?id=e85uJvX5geA&title=I+Spent+40+Hours+Coding+This%21&lang=en&timestamp=1730125816&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=606 "I Spent 40 Hours Coding This!")](https://www.youtube.com/watch?v=e85uJvX5geA)
 <!-- END YOUTUBE-CARDS -->
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 500k subscribers.
+My YouTube channel serves as a learning reinforcement tool, where I document and share my experiences working through CTF rooms, training modules, and structured learning pathways. As I explore various tools, develop custom scripts, and apply offensive security techniques, I create walkthrough videos that complement and expand on the writeups published in my GitHub repositories. Each video is designed to demystify complex concepts and showcase practical tools — valuable for my own learning and, hopefully, for others in the community looking to sharpen their skills.
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-42C3B4?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
 
