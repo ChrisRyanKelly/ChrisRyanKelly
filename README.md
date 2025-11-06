@@ -7,7 +7,7 @@
 
 **`Offensive Security (Hacker/PenTester/RedTeamer)`**
 
-I'm a cybersecurity enthusiast with a focus on offensive security. I enjoy testing and pushing the limits of systems, networks, and applications to better understand how they work and how to make them more resilient against evolving threats. Constantly exploring new attack vectors, tools, and techniques as I aim to expand and refine my methodologies. As I learn, I document my insights through my GitHub repositories and YouTube channel.  
+I’m an independent security researcher focused on the offensive side of things. I like digging into how systems, networks, and apps really work, and how they can be pushed, broken or manipulated. Everything I work on originates from a place of curiosity, some projects turn into something useful, others are just experimental. I share my work here on GitHub and on my YouTube channel, part learning log, part sandbox for exploring how this digital world in which we live is held together.
 
  <a href="https://www.linkedin.com/in/kiran-a-n/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
