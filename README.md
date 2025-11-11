@@ -40,7 +40,7 @@ I’m an independent security researcher focused on the offensive side of things
 
 #
 
-### 📺 YouTube Channel
+### 📺 YouTube
 
 
 
