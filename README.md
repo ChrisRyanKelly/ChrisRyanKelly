@@ -1,13 +1,11 @@
 <!-- GIF HEADER -->
 <img src="https://github.com/ChrisRyanKelly/ChrisRyanKelly/blob/master/day-by-day.gif" width="1280" height="248">
 
-
-### 🏄‍♂️ About Me
-
+# 👨‍💻 ChrisRyanKelly
 
 **`Offensive Security (Hacker/PenTester/RedTeamer)`**
 
-I’m an independent security researcher focused on the offensive side of things. I like digging into how systems, networks, and apps really work, and how they can be pushed, broken or manipulated. Everything I work on originates from a place of curiosity, some projects turn into something useful, others are just experimental. I share my work here on GitHub and on my YouTube channel, part learning log, part sandbox for exploring how this digital world in which we live is held together.
+I’m an independent security researcher focused on the offensive side of things. I like digging into how systems, networks, and apps really work, and how they can be pushed, broken or manipulated. Everything I work on originates from a place of curiosity, some projects turn into something useful, others are just experimental. I share my work here on GitHub and on my YouTube channel.
 
  <a href="https://www.linkedin.com/in/kiran-a-n/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -42,11 +40,7 @@ I’m an independent security researcher focused on the offensive side of things
 
 ### 📺 YouTube
 
-
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+15&size=35&pause=1000&color=42C3B4&background=9D56FF00&center=true&vCenter=true&repeat=false&random=false&width=435&lines=HitchersHideout)](https://git.io/typing-svg)  
+<div align="left">  
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![3 Coding Projects to Break the Coding Barrier (w/ Instructions Included)](https://ytcards.demolab.com/?id=zX4u3SudI-0&title=3+Coding+Projects+to+Break+the+Coding+Barrier+%28w%2F+Instructions+Included%29&lang=en&timestamp=1730728856&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1343 "3 Coding Projects to Break the Coding Barrier (w/ Instructions Included)")](https://www.youtube.com/watch?v=zX4u3SudI-0)
@@ -54,9 +48,9 @@ I’m an independent security researcher focused on the offensive side of things
 [![I Spent 40 Hours Coding This!](https://ytcards.demolab.com/?id=e85uJvX5geA&title=I+Spent+40+Hours+Coding+This%21&lang=en&timestamp=1730125816&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=606 "I Spent 40 Hours Coding This!")](https://www.youtube.com/watch?v=e85uJvX5geA)
 <!-- END YOUTUBE-CARDS -->
 
-My YouTube channel serves as a learning reinforcement tool, where I document and share my experiences working through CTF rooms, training modules, and structured learning pathways. As I explore various tools, develop custom scripts, and apply offensive security techniques, I create walkthrough videos that complement and expand on the writeups published in my GitHub repositories. Each video is designed to demystify complex concepts and showcase practical tools — valuable for my own learning and, hopefully, for others in the community looking to sharpen their skills.
+This channel serves as a learning reinforcement tool, where I document and share my experiences working through CTF rooms, training modules, and structured learning pathways. As I explore various tools, develop custom scripts, and apply offensive security techniques, I create walkthrough videos that complement and expand on the writeups published in my GitHub repositories.
 
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-42C3B4?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
+[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
 
 </div>
 
